@@ -12,11 +12,11 @@ problem-solving, DSA, and coding skills.
 - Maintain a consistent GitHub record
 
 
-**Progress: 1 / 100**
+**Progress: 2 / 100**
 
 ## 💻 Language
 
-Java
+Java programming
 
 ## 🔥 Challenge
 
